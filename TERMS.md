@@ -4,12 +4,12 @@ Additionally, we waive copyright and related rights in the work worldwide
 through the CC0 1.0 Universal public domain dedication.
 
 Software source code previously released under an open source license and then
-modified by CFPB staff or its contractors is considered a "joint work" (see 17 USC § 101); 
+modified by Avant staff or its contractors is considered a "joint work" (see 17 USC § 101); 
 it is partially copyrighted, partially public domain, and as a whole is protected by
 the copyrights of the non-government authors and must be released according to
 the terms of the original open-source license.
 
-For further details, please see the CFPB [Source Code Policy][policy].
+For further details, please see the Avant [Source Code Policy][policy].
 
 
 ## CC0 1.0 Universal Summary
@@ -38,7 +38,7 @@ all uses of the work, to the fullest extent permitted by applicable law.
 When using or citing the work, you should not imply endorsement by the
 author or the affirmer.
 
-[policy]: http://github.com/cfpb/source-code-policy/
+[policy]: http://github.com/avantcredit/source-code-policy/
 [CC0]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 

@@ -7,23 +7,23 @@
            preference in accordance with 41 USC 264B (reference (b)) (see also FAR 2.101(b), 12_1.html
            12.000, 12.101 (reference (c))).
 
-        b) Executive agencies, including CFPB, are required to conduct market research when preparing for
+        b) Executive agencies, including Avant, are required to conduct market research when preparing for
            the procurement of products or services by 41 USC Sec. 253a (reference (e)) (see also FAR
            10.001. Market research for software should include OSS.
-                a. There are several positive aspects of OSS that should compel CFPB to seek out OSS when
+                a. There are several positive aspects of OSS that should compel Avant to seek out OSS when
                    conducting market research on software for Bureau-wide use:
                           i. Publicly available source code enables continuous and broad peer review that
                              ensures rigorous security and reliability. Specifically, this process
                              encourages the identification and elimination of defects that might
                              otherwise go unrecognized by a more limited core development team.
-                         ii. The unrestricted ability to modify software source code enables CFPB to
+                         ii. The unrestricted ability to modify software source code enables Avant to
                              respond more rapidly to constantly changing missions and markets, and is
-                             critical to CFPB's ability to create new tools and keep pace with industry.
+                             critical to Avant's ability to create new tools and keep pace with industry.
                         iii. Using OSS instead of proprietary software may reduce reliance on a
                              particular software developer or vendor. OSS can be operated and maintained
                              by multiple vendors, thus reducing barriers to entry and exit.
                          iv. Open source licenses do not restrict who can use the software or the
-                             endeavors in which the software can be used. This allows CFPB to endlessly
+                             endeavors in which the software can be used. This allows Avant to endlessly
                              reuse existing OSS-based products to satisfy new needs quickly and secure
                              substantial cost savings for the Bureau.
                           v. Since the monetary cost of OSS typically lies in support and maintenance as
@@ -31,9 +31,9 @@
                              many copies of the software may be required, and can mitigate risk of cost
                              growth due to licensing in situations where the total number of users may
                              not be known in advance.
-                         vi. By sharing the responsibility for maintenance of OSS with other users, CFPB
+                         vi. By sharing the responsibility for maintenance of OSS with other users, Avant
                              can benefit by reducing the total cost of ownership for software,
-                             particularly compared with software for which CFPB has sole responsibility
+                             particularly compared with software for which Avant has sole responsibility
                              for maintenance (e.g., GOTS).
                         vii. OSS is particularly suitable for rapid prototyping and experimentation,
                              where the ability to "test drive" the software with minimal costs and
@@ -41,7 +41,7 @@
 
                 b. While these considerations may be relevant, they may not be the overriding drivers to
                    any decision about software. Ultimately, the software that best meets the needs and
-                   mission of CFPB should be used, regardless of whether the software is open source.
+                   mission of Avant should be used, regardless of whether the software is open source.
 
         c) The use of any software without appropriate maintenance and support presents an information
            assurance risk. Before approving the use of software (including OSS), system/program managers,
@@ -49,30 +49,30 @@
            support (e.g., commercial or Government program office support) is adequate for mission need.
 
         d) It is important to understand both the specifics of the open source license in question and
-           how CFPB intends to use and redistribute any Bureau-modified OSS. There is a misconception
+           how Avant intends to use and redistribute any Bureau-modified OSS. There is a misconception
            that the Government is always obligated to distribute the source code of any modified OSS to
            the public, and therefore that OSS should not be integrated or modified for use in sensitive
-           CFPB systems. In contrast, many open source licenses permit the user to modify OSS for
+           Avant systems. In contrast, many open source licenses permit the user to modify OSS for
            internal use without being obligated to distribute source code to the public. However, if the
            user chooses to distribute the modified OSS outside the user's organization (e.g., a
            Government user distributes the code outside the Government), then some OSS licenses (such as
            the GNU General Public License) do require distribution of the corresponding source code to
            the recipient of the software.
 
-        e) When contracting developer services, CFPB will encourage vendors to use open source technology
+        e) When contracting developer services, Avant will encourage vendors to use open source technology
            wherever possible, for the reasons cited in a)i-vii above.
 
-        f) In order to facilitate the auditing of CFPB's software catalog, the Technology & Innovation
+        f) In order to facilitate the auditing of Avant's software catalog, the Technology & Innovation
            office will use a source code analysis tool to index its open source assets and their
            respective licensing obligations.
 
-2. REDISTRIBUTION OF CFPB CODE
+2. REDISTRIBUTION OF Avant CODE
 
-        a) Software source code written entirely by CFPB staff, and by contractors who are developing
-           software on behalf of CFPB, is by default a public domain work.
+        a) Software source code written entirely by Avant staff, and by contractors who are developing
+           software on behalf of Avant, is by default a public domain work.
 
         b) Software source code previously released under an open source license and then modified by
-           CFPB staff is considered a "joint work" (see 17 USC § 101); it is partially copyrighted,
+           Avant staff is considered a "joint work" (see 17 USC § 101); it is partially copyrighted,
            partially public domain, and as a whole is protected by the copyrights of the non-government
            authors and must be released according to the terms of the original open-source license.
 
@@ -90,5 +90,5 @@
                    Government.
                 c. The public release of the item is restricted by other law or regulation, such as the
                    Export Administration Regulations or the International Traffic in Arms Regulation.
-                d. CFPB cybersecurity staff determine that the public release of such code would pose an
-                   unacceptable risk to CFPB's operational security.
+                d. Avant cybersecurity staff determine that the public release of such code would pose an
+                   unacceptable risk to Avant's operational security.
